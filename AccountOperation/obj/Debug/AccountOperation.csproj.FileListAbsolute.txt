@@ -1,0 +1,15 @@
+E:\disha\AccountOperation\AccountOperation\bin\Debug\AccountOperation.exe.config
+E:\disha\AccountOperation\AccountOperation\obj\Debug\AccountOperation.csprojResolveAssemblyReference.cache
+E:\disha\AccountOperation\AccountOperation\obj\Debug\AccountOperation.Form1.resources
+E:\disha\AccountOperation\AccountOperation\obj\Debug\AccountOperation.Properties.Resources.resources
+E:\disha\AccountOperation\AccountOperation\obj\Debug\AccountOperation.csproj.GenerateResource.Cache
+E:\disha\AccountOperation\AccountOperation\bin\Debug\AccountOperation.exe
+E:\disha\AccountOperation\AccountOperation\bin\Debug\AccountOperation.pdb
+E:\disha\AccountOperation\AccountOperation\obj\Debug\AccountOperation.exe
+E:\disha\AccountOperation\AccountOperation\obj\Debug\AccountOperation.pdb
+E:\zahid\AccountOperation\AccountOperation\bin\Debug\AccountOperation.exe.config
+E:\zahid\AccountOperation\AccountOperation\obj\Debug\AccountOperation.exe
+E:\zahid\AccountOperation\AccountOperation\obj\Debug\AccountOperation.pdb
+E:\zahid\New folder\AccountOperation\AccountOperation\bin\Debug\AccountOperation.exe.config
+E:\zahid\New folder\AccountOperation\AccountOperation\obj\Debug\AccountOperation.exe
+E:\zahid\New folder\AccountOperation\AccountOperation\obj\Debug\AccountOperation.pdb
